@@ -19,6 +19,9 @@
     "react-helmet": "^5.2.1"
   },
   "devDependencies": {
+    "bulma": "^0.8.0",
+    "gatsby-plugin-sass": "^2.1.24",
+    "node-sass": "^4.13.0",
     "prettier": "^1.19.1"
   },
   "keywords": [
