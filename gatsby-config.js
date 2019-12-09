@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/cv",
   siteMetadata: {
     title: `Nipapan Sonjai - CV`,
     description: `A full stack web developer working with Javascript (React, NodeJs) and PHP (Laravel). Based in Thailand.`,
@@ -28,6 +29,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-sass`,
-    `gatsby-plugin-offline`,
+    // `gatsby-plugin-offline`,
   ],
 }
