@@ -1,7 +1,7 @@
 module.exports = {
-  pathPrefix: "/cv",
+  pathPrefix: "/aboutme",
   siteMetadata: {
-    title: `Nipapan Sonjai - CV`,
+    title: `Nipapan Sonjai`,
     description: `A full stack web developer working with Javascript (React, NodeJs) and PHP (Laravel). Based in Thailand.`,
     author: `Nipapan Sonjai`,
   },
